@@ -1,2 +1,2 @@
 # SchoolWork
-My personal school files
+Where I keep the stuff that gives me good grades.
